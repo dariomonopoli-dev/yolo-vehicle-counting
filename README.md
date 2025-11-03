@@ -12,7 +12,10 @@ Real-time multi-lane vehicle **detection**, **classification**, **tracking**, an
 
 ## Demo
 
-<video src="assets/demo.mp4" controls width="600"></video>
+[![Demo Preview](./assets/screenshot.png)](https://github.com/dariomonopoli-dev/yolo-vehicle-counting/blob/main/assets/demo.mp4)
+Click for demo.
+
+
 
 
 ## Installation
