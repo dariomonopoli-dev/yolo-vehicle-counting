@@ -12,7 +12,10 @@ Real-time multi-lane vehicle **detection**, **classification**, **tracking**, an
 
 ## Demo
 
-<video src="assets/demo.mp4" controls width="600"></video>
+[![Demo Preview](./assets/screenshot.png)](https://raw.githubusercontent.com/USER/REPO/BRANCH/assets/demo.mp4)
+
+
+
 
 
 ## Installation
